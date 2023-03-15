@@ -15,9 +15,9 @@
             <span class="pb-fill" style="width: 100%;"></span>
         </div>
     </td></tr>
-    <tr><td><a href="#">game</a></td><td>100%</td><td>
+    <tr><td><a href="#">game</a></td><td>99.48%</td><td>
         <div class="pb">
-            <span class="pb-fill" style="width: 100%;"></span>
+            <span class="pb-fill" style="width: 99.48%;"></span>
         </div>
     </td></tr>
     <tr><td><a href="#">supporter</a></td><td>100%</td><td>
@@ -33,4 +33,12 @@
 </tbody></table>
 
 -----------------------
+
+## Game
+
+**Missing in fr/game.php:**
+
+```
+'solidGarbageSpeed' => 'Solid g. speed',
+```
 
